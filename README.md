@@ -1,3 +1,5 @@
+This project is archived for now, might come back to it later when I have time
+
 # Jeelight
 
 A Java library for controlling Yeelight LED smart lights.
